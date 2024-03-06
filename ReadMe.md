@@ -1,7 +1,6 @@
 # Sultan Beishenkulov - Data Scientist
 
 **Contact Information:**
-- Phone: (650) 722-6119
 - [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sultanbeishenkulov@gmail.com)
 - [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sultanbeishenkulov/)
 - 
