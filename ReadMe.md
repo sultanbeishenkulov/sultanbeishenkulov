@@ -10,7 +10,9 @@ I am a Data Scientist with a Master's degree in Data Science and over 3 years of
 **Contact Information:**
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sultanbeishenkulov@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sultanbeishenkulov/)
-  
+
+* 🌍  I'm based in United States
+* ✉️  You can contact me at [sultanbeishenkulov@gmail.com](mailto:sultanbeishenkulov@gmail.com)
  
 ### Skills
 
