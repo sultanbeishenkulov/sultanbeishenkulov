@@ -3,7 +3,7 @@ Sultan Beishenkulov
 
 Data Scientist
 --------------
-
+<p> <img src="https://komarev.com/ghpvc/?username=sultanbeishenkulov&label=Profile%20views&color=brightgreen&style=plastic" alt="GITHUB-USERNAME" /> </p>
 
 I am a Data Scientist with a Master's degree in Data Science and over 3 years of experience in predictive modeling, data processing, and data mining. Proficient in Python, I am dedicated to solving problems through data-driven approaches. I possess in-depth understanding of predictive modeling and machine learning algorithms, with a demonstrated ability to optimize business processes through informed decision-making based on data analysis.
 
