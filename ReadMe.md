@@ -6,6 +6,6 @@ I build ML systems that ship to production and move business metrics. At Sprout 
 
 Currently building portfolio projects in GenAI and MLOps — see pinned repos below.
 
-**Core stack:** Python · XGBoost · Scikit-learn · PyTorch · LangChain · LangGraph · SHAP · FastAPI · Docker · MLflow · SageMaker
+**Core stack:** Python · Scikit-learn · PyTorch · LangChain · LangGraph · SHAP · FastAPI · Docker · MLflow · SageMaker
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/sultanbeish/) · sultanbeishenkulov@gmail.com
